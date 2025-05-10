@@ -1,5 +1,9 @@
 # 这是一个用go重写的雨云自动签到提现工具
 
+## 由于雨云增加验证码
+
+## 本工具目前已无法使用
+
 **Python版：https://github.com/xingkongmcqwq/rainyun-api/**
 
 **都是我写的 那个号丢了**
